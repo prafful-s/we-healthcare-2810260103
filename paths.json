@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/fiur/verdantcore-member/language-masters/en:/",
+    "/content/fiur/verdantcore-member/language-masters/en/:/en/",
+    "/content/fiur/verdantcore-member/configuration:/.helix/config.json",
+    "/content/fiur/verdantcore-member/metadata:/metadata.json",
+    "/content/fiur/verdantcore-member/redirects:/redirects.json",
+    "/content/fiur/verdantcore-member/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/fiur/verdantcore-member/",
+    "/content/dam/fiur/verdantcore-member/"
   ]
 }
